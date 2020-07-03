@@ -1,0 +1,5 @@
+Runtime: 0:00:00.112058 
+            
+Check up times: 0:00:00.112058 
+            
+Common sequence: ['JIY', 'TSA', 'DPN', 'PAI', 'FXJ', 'VCA', 'XZL']

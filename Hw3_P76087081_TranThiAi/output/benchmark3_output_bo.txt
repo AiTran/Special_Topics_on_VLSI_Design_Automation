@@ -1,0 +1,5 @@
+Runtime: 0:00:00.047363 
+            
+Check up times: 0:00:00.047363 
+            
+Common sequence: ['2a', 'y5', '5N', 'mU', 'T9', 'C8', '9m', '1H', 'Q5', '3k', 'Za', 'c3', '7S', '8o', 'pn', '1B', 'vc', 'YT', '4g', 'fR', 'Xl', 'Og', 'gL', 'nq', 'Yy', 'Fn', 'of', '4X', 'Uo', 'uq', 'my', 'kk', 'DJ', 'DU', 'aO', 'CJ', 'HY', 'W5']

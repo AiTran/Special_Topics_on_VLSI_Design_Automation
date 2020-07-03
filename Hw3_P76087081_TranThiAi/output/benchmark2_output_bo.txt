@@ -1,0 +1,5 @@
+Runtime: 0:00:00.047603 
+            
+Check up times: 0:00:00.047603 
+            
+Common sequence: ['sb', '72', 'TS', 'lY', '27', 'bs', 'TT', 'HB', '83', 's0', 'GT', 'LF', 'XI', 'K0', '5r', '2c', '5X', 'Dd', '4Z', 'Zs', '9Y', '5H', 'tb', 'lz', 'RL', '0L', '68', 'N6', 'ND', 'NK', 'Ys']

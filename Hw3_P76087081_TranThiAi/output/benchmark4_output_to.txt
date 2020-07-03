@@ -1,0 +1,5 @@
+Runtime: 0:02:42.972248 
+            
+Check up times: 0:02:42.972248 
+            
+Common sequence: ['B2HN', 'cJ7Z']
